@@ -2,7 +2,7 @@
 - 👀 I’m interested in Financial Trading and Machine Learning.
 - 🌱 I’m currently learning Go and PineScript.
 - 💞️ I’m looking to collaborate on 1BullBear.com
-- 📫 How to reach me - hello[at]k***b***.com
+- 📫 How to reach me - hello[at]kweeboss.com
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: SSR is fun - with a level of pain.
 
